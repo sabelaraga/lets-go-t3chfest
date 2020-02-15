@@ -8,7 +8,7 @@ type Message struct{
   txt string
 }
 
-func print (m Message) /* return type */ {
+func print (m Message) {
 	fmt.Println(m.txt)
 }
 
