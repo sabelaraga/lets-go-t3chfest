@@ -24,7 +24,7 @@ Solution: https://play.golang.org/p/ljLXumZrVlh
 
 Exercise: https://play.golang.org/p/oDPDSaSDKEN
 
-Solution: 
+Solution: https://play.golang.org/p/5u_rgLGY1JM
 
 
 
