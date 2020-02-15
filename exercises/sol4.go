@@ -17,7 +17,6 @@ func NewMessage(s string) Message {
 }
 
 func main() {
-	// TODO change the next line to call the constructor
 	m := NewMessage("Tra tra")
 	m.print()
 }
