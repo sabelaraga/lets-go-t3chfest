@@ -44,11 +44,11 @@ Exercise a (one loop): https://play.golang.org/p/L2HJ6Fa9CMJ
 
 Solution a: https://play.golang.org/p/kJpVyE2MPv6
 
-Exercise b (two loops):
+Exercise b (two loops): https://play.golang.org/p/k_wUyyM8nHV
 
-Solution b:
+Solution b: https://play.golang.org/p/IvpgzftQqas
 
-Exercise c (functions):
+Exercise c (functions): https://play.golang.org/p/jwNXK2v5jFU
 
-Solution c: 
+Solution c: https://play.golang.org/p/lsoTcbTub-k
 
