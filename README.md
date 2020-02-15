@@ -8,9 +8,18 @@ This is the list of playgrounds we will use during the session.
 
 Hello Go: https://play.golang.org
 
-Exercise 1: Print a Message type
+**Exercise 1**: Print a Message type
 
 Exercise: https://play.golang.org/p/uYeeniHpGkf
+
 Solution: https://play.golang.org/p/yU5JEfUdhsg
+
+**Exercise 2**: Printing in a function
+
+Exercise:
+
+Solution: https://play.golang.org/p/4MaURiFsv-k
+
+
 
 
