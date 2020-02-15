@@ -32,9 +32,23 @@ Exercise: https://play.golang.org/p/mUogpwGhbAO
 
 Solution: https://play.golang.org/p/Z6e-GKfaTCE
 
-
 **Exercise 5**: Add a constructor to Message
 
 Exercise: https://play.golang.org/p/neWCScv1Pt5
 
 Solution: https://play.golang.org/p/ims7d8faOuY
+
+**Exercise 6**: List of Messages
+
+Exercise a (one loop): https://play.golang.org/p/L2HJ6Fa9CMJ
+
+Solution a: https://play.golang.org/p/kJpVyE2MPv6
+
+Exercise b (two loops):
+
+Solution b:
+
+Exercise c (functions):
+
+Solution c: 
+
