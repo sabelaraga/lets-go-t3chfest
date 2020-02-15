@@ -36,19 +36,19 @@ Solution: https://play.golang.org/p/Z6e-GKfaTCE
 
 Exercise: https://play.golang.org/p/neWCScv1Pt5
 
-Solution: https://play.golang.org/p/ims7d8faOuY
+Solution: https://play.golang.org/p/JB3MUETdqBG
 
 **Exercise 6**: List of Messages
 
 Exercise a (one loop): https://play.golang.org/p/L2HJ6Fa9CMJ
 
-Solution a: https://play.golang.org/p/kJpVyE2MPv6
+Solution a: https://play.golang.org/p/ZNif4TKop5r
 
-Exercise b (two loops): https://play.golang.org/p/k_wUyyM8nHV
+Exercise b (two loops): https://play.golang.org/p/3FpY5S2nQlc
 
-Solution b: https://play.golang.org/p/IvpgzftQqas
+Solution b: https://play.golang.org/p/2gA40iUc2XZ
 
-Exercise c (functions): https://play.golang.org/p/jwNXK2v5jFU
+Exercise c (functions): https://play.golang.org/p/ZfIPwskJ8CA
 
-Solution c: https://play.golang.org/p/lsoTcbTub-k
+Solution c: https://play.golang.org/p/e22QO8tq-kL
 
