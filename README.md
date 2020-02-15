@@ -30,6 +30,11 @@ Solution: https://play.golang.org/p/5u_rgLGY1JM
 
 Exercise: https://play.golang.org/p/mUogpwGhbAO
 
-Solution: https://play.golang.org/p/DYoJaWP5D2j
+Solution: https://play.golang.org/p/Z6e-GKfaTCE
 
 
+**Exercise 5**: Add a constructor to Message
+
+Exercise: https://play.golang.org/p/neWCScv1Pt5
+
+Solution: 
