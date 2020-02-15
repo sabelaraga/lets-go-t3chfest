@@ -41,7 +41,7 @@ func main() {
 		m := NewMessage(v)
 	
 		if err := m.print(); err!= nil {
-			fmt.Printf("Ouch! %t", err)
+			fmt.Printf("Ouch! %v", err)
 		}
 	}
 }
