@@ -16,9 +16,9 @@ Solution: https://play.golang.org/p/yU5JEfUdhsg
 
 **Exercise 2**: Printing in a function
 
-Exercise:
+Exercise: https://play.golang.org/p/4MaURiFsv-k
 
-Solution: https://play.golang.org/p/4MaURiFsv-k
+Solution: https://play.golang.org/p/VFrnPVtybcy
 
 
 
