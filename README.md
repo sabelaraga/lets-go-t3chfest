@@ -18,7 +18,13 @@ Solution: https://play.golang.org/p/yU5JEfUdhsg
 
 Exercise: https://play.golang.org/p/4MaURiFsv-k
 
-Solution: https://play.golang.org/p/VFrnPVtybcy
+Solution: https://play.golang.org/p/ljLXumZrVlh
+
+**Exercise 3**: Add a receiver to the print function
+
+Exercise: https://play.golang.org/p/oDPDSaSDKEN
+
+Solution: 
 
 
 
