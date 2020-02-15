@@ -43,7 +43,7 @@ func main() {
 	// Encapsulate this loop in a function
 	for _, m := range list {	
 		if err := m.print(); err!= nil {
-			fmt.Printf("Ouch! %t", err)
+			fmt.Printf("Ouch! %v", err)
 		}
 	}
 }
