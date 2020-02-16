@@ -56,3 +56,5 @@ Solution c: https://play.golang.org/p/e22QO8tq-kL
 
 Exercise a (use channels) : https://play.golang.org/p/TTkjDjmxPpx
 
+Solution a (with a problem): https://play.golang.org/p/77z4K2OOj8T
+
