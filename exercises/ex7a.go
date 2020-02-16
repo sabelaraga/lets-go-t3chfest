@@ -41,8 +41,8 @@ var (
 func makeList (iList [] string) []Message{
         // put the new messages on a channel
   	oList := []Message{}
-  	for i, v := range input {
-	        isLast := (i == (len(oList)-1))
+  	for i, v := range iList {
+	        isLast := (i == (len(iList)-1))
     		oList = append(oList, NewMessage(v, i, isLast))
   	}
   	return oList
