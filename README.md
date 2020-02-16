@@ -50,7 +50,7 @@ Solution b: https://play.golang.org/p/2gA40iUc2XZ
 
 Exercise c (functions): https://play.golang.org/p/ZfIPwskJ8CA
 
-Solution c: https://play.golang.org/p/e22QO8tq-kL
+Solution c: https://play.golang.org/p/z03AYDDxU0S
 
 **Exercise 7**: Using channels and Goroutines (bonus)
 
