@@ -36,7 +36,7 @@ var (
 
 func makeList (iList [] string) []Message{
   	oList := []Message{}
-  	for _, v := range input {
+  	for _, v := range iList {
     		oList = append(oList, NewMessage(v))
   	}
   	return oList
