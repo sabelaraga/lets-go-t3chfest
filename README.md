@@ -54,7 +54,7 @@ Solution c: https://play.golang.org/p/z03AYDDxU0S
 
 **Exercise 7**: Using channels and Goroutines (bonus)
 
-Exercise a (use channels) : https://play.golang.org/p/TTkjDjmxPpx
+Exercise a (use channels) : https://play.golang.org/p/1axbLIQWBDB
 
 Solution a (with a problem): https://play.golang.org/p/77z4K2OOj8T
 
